@@ -27,7 +27,7 @@ The flowchart of the pipeline can be seen below
 The displayed graph on PowerBI can be seen below
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b30ce08e-7938-4142-a860-c4d94f9590e9" alt="Display"/>
+  <img src="https://github.com/user-attachments/assets/6c155b8b-4b66-4c3b-b961-eead72390631" alt="Display"/>
 </p>
 
 ## Key Components
