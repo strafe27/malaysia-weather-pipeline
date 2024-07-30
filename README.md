@@ -21,7 +21,7 @@ This repository contains an end-to-end data engineering project that ingests, pr
 The flowchart of the pipeline can be seen below
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae47d0a9-98fe-4e1c-9cd7-30dfe659c947" alt="Data Pipeline Diagram"/>
+  <img src="https://github.com/user-attachments/assets/5fbd7c1a-f446-4674-be6f-f5b9eec66634" alt="Data Pipeline Diagram"/>
 </p>
 
 The displayed graph on PowerBI can be seen below
